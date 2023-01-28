@@ -9,7 +9,9 @@ Integrated Assessment Across Water, Food, Energy, Climate, and Socioeconomic Sys
 <-- Abstract -->
 
 
-Dashboard link: 
+Dashboard link: https://hassaniazi.github.io/mo/
 
-Documentation: 
+Documentation: Paper DOI
+
+Data: Zenodo DOI
 
